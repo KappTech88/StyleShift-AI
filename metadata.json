@@ -1,0 +1,8 @@
+{
+  "name": "StyleShift AI",
+  "description": "An AI-powered personal style and gesture editor using Gemini 2.5 Flash Image. Upload your photo, customize your look, and perform moves.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
